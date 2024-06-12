@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yashin
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yashin
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning Ansible automation
+- 💞️ I’m looking to collaborate on Ansible Automation Projects
+- 📫 Reach me on yashin.com@gmail.com ...
 
 <!---
 yashin2/yashin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
